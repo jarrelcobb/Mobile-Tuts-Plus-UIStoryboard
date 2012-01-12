@@ -20,6 +20,7 @@
 		0B65ACCB145E48A80061A994 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B65ACC9145E48A80061A994 /* MainStoryboard.storyboard */; };
 		0B65ACCE145E48A80061A994 /* ModalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B65ACCD145E48A80061A994 /* ModalViewController.m */; };
 		0B65ACDA145E51ED0061A994 /* DynamicCellsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B65ACD9145E51ED0061A994 /* DynamicCellsTableViewController.m */; };
+		42B9C1DE14BF329100247141 /* NewTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 42B9C1DD14BF329100247141 /* NewTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,8 @@
 		0B65ACCD145E48A80061A994 /* ModalViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ModalViewController.m; sourceTree = "<group>"; };
 		0B65ACD8145E51EC0061A994 /* DynamicCellsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DynamicCellsTableViewController.h; sourceTree = "<group>"; };
 		0B65ACD9145E51ED0061A994 /* DynamicCellsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DynamicCellsTableViewController.m; sourceTree = "<group>"; };
+		42B9C1DC14BF329100247141 /* NewTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewTableViewController.h; sourceTree = "<group>"; };
+		42B9C1DD14BF329100247141 /* NewTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +100,8 @@
 				0B65ACC6145E48A80061A994 /* AppDelegate.h */,
 				0B65ACC7145E48A80061A994 /* AppDelegate.m */,
 				0B65ACC9145E48A80061A994 /* MainStoryboard.storyboard */,
+				42B9C1DC14BF329100247141 /* NewTableViewController.h */,
+				42B9C1DD14BF329100247141 /* NewTableViewController.m */,
 				0B65ACD8145E51EC0061A994 /* DynamicCellsTableViewController.h */,
 				0B65ACD9145E51ED0061A994 /* DynamicCellsTableViewController.m */,
 				0B65ACCC145E48A80061A994 /* ModalViewController.h */,
@@ -190,6 +195,7 @@
 				0B65ACDA145E51ED0061A994 /* DynamicCellsTableViewController.m in Sources */,
 				0B361D07145FB1E700D4B567 /* FadeSegue.m in Sources */,
 				0B1D17A4146254A000D11193 /* CustomPresentedViewController.m in Sources */,
+				42B9C1DE14BF329100247141 /* NewTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
